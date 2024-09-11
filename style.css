@@ -209,9 +209,9 @@
   padding: 10px 20px;
   font-size: 15px;
   color: black;
-  /* background: rgba(201, 246, 231, 0.97);
-   */
-  background-color: red;
+  background: rgba(201, 246, 231, 0.97);
+
+  /* background-color: red; */
 }
 
 /* .section-1-button > button :hover {
@@ -236,7 +236,7 @@
 @media only screen and (max-width: 800px) {
   .section-1-image > img {
     height: 400px;
-    width: 30px;
+    width: 300px;
   }
   .section-1-section-1-1 {
     margin-top: 30px;
@@ -251,6 +251,7 @@
   }
 
   .section-1 {
+    grid-template-columns: 1fr;
     grid-template-areas:
       "a"
       "b";
