@@ -346,6 +346,8 @@
 
 .section-6 {
   width: 100%;
+  margin: 50px 0;
+  border: 1px solid green;
 }
 
 .section-6-images-container {
@@ -359,7 +361,7 @@
 
 .section-6-img-container {
   text-align: center;
-  /* margin: 30px 30px; */
+  margin: 30px 30px;
 }
 
 .section-6-image {
@@ -480,11 +482,11 @@
 
   .section-6-img-container > img {
     height: 300px;
-    width: 380px;
+    width: 350px;
   }
   .section-6 .container-1 > img {
     height: 300px;
-    width: 380px;
+    width: 350px;
   }
 }
 
