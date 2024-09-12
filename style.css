@@ -472,6 +472,10 @@
     justify-content: center;
   }
 
+  .section-6-img-container {
+    margin: 30px 30px;
+  }
+
   .section-6-img-container > img {
     height: 300px;
     width: 400px;
