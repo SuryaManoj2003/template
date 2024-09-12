@@ -470,11 +470,18 @@
       "d"
       "e";
     justify-content: center;
+    gap: 0;
   }
+
   .section-6-img-container > img {
     height: 300px;
     width: 400px;
   }
+}
+
+.section-6-images-container > .container-1 > img {
+  height: 300px;
+  width: 400px;
 }
 
 /*----------------------------------*/
