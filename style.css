@@ -463,6 +463,7 @@
 
 @media only screen and (max-width: 800px) {
   .section-6-images-container {
+    width: 100%;
     grid-template-areas:
       "a"
       "b"
