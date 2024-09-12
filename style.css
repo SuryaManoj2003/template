@@ -482,7 +482,7 @@
     height: 300px;
     width: 350px;
   }
-  .section-6 > .container-1 > img {
+  .section-6 .container-1 > img {
     height: 300px;
     width: 350px;
   }
