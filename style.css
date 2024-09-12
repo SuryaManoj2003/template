@@ -477,11 +477,10 @@
     height: 300px;
     width: 400px;
   }
-}
-
-.section-6-images-container > .container-1 > img {
-  height: 300px;
-  width: 400px;
+  .section-6-images-container > .container-1 > img {
+    height: 300px;
+    width: 400px;
+  }
 }
 
 /*----------------------------------*/
