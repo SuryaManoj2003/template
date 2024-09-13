@@ -147,6 +147,7 @@
   display: grid;
   gap: 80px;
   justify-self: end;
+  justify-items: start;
 }
 
 .section-1-section-1-2 {
@@ -665,6 +666,7 @@
     margin-top: 30px;
     grid-area: a;
     justify-self: center;
+    justify-items: center;
   }
 
   .section-1-section-1-2 {
@@ -674,7 +676,7 @@
   }
 
   .section-1 {
-    grid-template-columns: 1fr;
+    grid-template-columns: auto;
     grid-template-areas:
       "a"
       "b";
