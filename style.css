@@ -573,6 +573,7 @@
   display: inline-block;
   margin: 15px 0;
   color: gray;
+  line-height: 30px;
 }
 
 .footer-mobillio > h2 {
